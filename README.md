@@ -1,1 +1,1 @@
-[![Project Documentation](./path/to/preview-image.png)](./path/to/your-file.pdf)
+[![Project Documentation](https://www.linkedin.com/posts/muhammad-talha-806126234_project-python-ml-activity-7064300397267460097-dcnT?utm_source=share&utm_medium=member_desktop)](https://github.com/LearnCode801/Flight-Fare-Predictor-App/blob/main/Report.pdf)
