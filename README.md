@@ -1,1 +1,1 @@
-[![Project Documentation](https://www.linkedin.com/posts/muhammad-talha-806126234_project-python-ml-activity-7064300397267460097-dcnT?utm_source=share&utm_medium=member_desktop)](https://github.com/LearnCode801/Flight-Fare-Predictor-App/blob/main/Report.pdf)
+[![Project Documentation](https://github.com/LearnCode801/Flight-Fare-Predictor-App/blob/main/Screenshot%202024-10-30%20125817.png)](https://github.com/LearnCode801/Flight-Fare-Predictor-App/blob/main/Report.pdf)
